@@ -6,9 +6,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ishaan--jain22-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaan-jain22)
-[![Instagram](https://img.shields.io/badge/Instagram-ishaan07__22-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ishaan07_22)
-![Profile Views](https://komarev.com/ghpvc/?username=Ishaan-Jain2207&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS)
+<a href="https://www.linkedin.com/in/ishaan-jain22"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;<a href="https://www.instagram.com/ishaan07_22"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+<br/>
+
 
 </div>
 
@@ -23,10 +24,10 @@ degree     : B.Tech Computer Science (Data Science) @ NMIMS
 focus      : Robotics · Autonomous Vehicles · Computer Vision · ML
 interests  : ROS2, SLAM, YOLO, PyTorch, OpenCV, Linux
 status     : Building intelligent systems, one frame at a time
-off_work   : Gym · Action & Horror films · Tech tutorials @ 2× speed
+off_work   : Gym · Action films · Tech tutorials @ 2× speed
 ```
 
-I'm drawn to the intersection of **perception and motion** — writing code that lets machines understand the physical world and act in it. Most of my projects live somewhere between a camera feed and a control loop.
+I'm drawn to the intersection of **perception and motion**  writing code that lets machines understand the physical world and act in it. Most of my projects live somewhere between a camera feed and a control loop.
 
 ---
 
