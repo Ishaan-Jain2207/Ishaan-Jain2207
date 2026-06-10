@@ -1,174 +1,143 @@
-<!-- ========================= HEADER ========================= -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2600&pause=900&color=F97316&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ishaan+Jain;Robotics+%7C+Autonomous+Vehicles+%7C+OpenCV;Building+real-world+intelligent+systems;Learning+something+new+every+day" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=48&pause=99999&color=22D3EE&center=true&vCenter=true&width=800&height=100&lines=ISHAAN+JAIN" alt="Ishaan Jain" />
 
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32" />
-  Welcome to my GitHub 
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&height=45&lines=Robotics+%26+Autonomous+Systems+Engineer;Computer+Vision+%7C+SLAM+%7C+ROS2;Building+machines+that+see+and+think;Turning+camera+feeds+into+intelligent+decisions" alt="Typing SVG" />
 
-<p align="center">
-  <strong>B.Tech Computer Science (Data Science) student from India</strong> building projects in robotics, autonomous vehicles, and machine learning.
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ishaan-Jain2207&label=Profile%20views&color=8b5cf6&style=flat-square" alt="profile views" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ishaan--jain22-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaan-jain22)
+[![Instagram](https://img.shields.io/badge/Instagram-ishaan07__22-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ishaan07_22)
+![Profile Views](https://komarev.com/ghpvc/?username=Ishaan-Jain2207&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
-<!-- ========================= ABOUT ========================= -->
+## `$ whoami`
 
-## 🧑‍🚀 About Me
+```yaml
+name       : Ishaan Jain
+location   : Chandigarh, India
+degree     : B.Tech Computer Science (Data Science) @ NMIMS
+focus      : Robotics · Autonomous Vehicles · Computer Vision · ML
+interests  : ROS2, SLAM, YOLO, PyTorch, OpenCV, Linux
+status     : Building intelligent systems, one frame at a time
+off_work   : Gym · Action & Horror films · Tech tutorials @ 2× speed
+```
 
-- 🌍 Based in Chandigarh, India  
-- 🤖 Excited about robotics, self-driving systems, ROS2, SLAM, and computer vision  
-- 🧠 Currently deepening skills in Python, C++, ROS2, PyTorch, YOLO, and Linux for robotics  
-- 🧪 I enjoy turning ideas into experiments, then into working systems  
-- 👥 Happy to collaborate on robotics, autonomous driving, computer vision, and ML projects  
-- ⚡ When I’m not coding, you’ll find me at the gym, watching action films, or grinding through tech tutorials at 2× speed  
-
----
-
-<!-- ========================= TECH STACK ========================= -->
-
-## ⚙️ Tech Stack
-
-### 👨‍💻 Languages & Backend
-
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" title="Python" />
-  </a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40" height="40" alt="C++" title="C++" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" title="NodeJS" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="40" height="40" alt="Express" title="Express" />
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="40" height="40" alt="FastAPI" title="FastAPI" />
-  </a>
-</p>
-
-### 🤖 ML, CV & Data
-
-<p align="left">
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/numpy-colored.svg" width="40" height="40" alt="NumPy" title="NumPy" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pandas-colored.svg" width="40" height="40" alt="Pandas" title="Pandas" />
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="40" height="40" alt="PyTorch" title="PyTorch" />
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/opencv-colored.svg" width="40" height="40" alt="OpenCV" title="OpenCV" />
-  </a>
-</p>
-
-### 🧱 Databases, Tools & OS
-
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" title="MySQL" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" title="Git" />
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="40" height="40" alt="Arduino" title="Arduino" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" height="40" alt="Linux" title="Linux" />
-  </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="40" height="40" alt="Ubuntu" title="Ubuntu" />
-  </a>
-</p>
+I'm drawn to the intersection of **perception and motion** — writing code that lets machines understand the physical world and act in it. Most of my projects live somewhere between a camera feed and a control loop.
 
 ---
 
-<!-- ========================= PROJECTS ========================= -->
+## `$ ls -la ./skills`
 
-## 🚀 Featured Projects
+### Core Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-> A snapshot of what I’m building and learning through.
+### Robotics & CV
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-FF6F00?style=flat-square&logo=yolo&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-### 🔹 Autonomous Solar Panel Cleaning Robot
-Robotics project focused on automating cleaning for rooftop solar panels using hardware + ML.  
-- Computer vision for panel and dirt detection  
-- Designed for dusty rooftop environments  
-- Goal: reduce manual maintenance and improve energy efficiency  
+### Backend & Web
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 🔹 Liver & Diabetes Disease Screening Web App
-Full-stack web application with an ML backend for early disease risk prediction.  
-- Users input medical parameters and receive risk estimations  
-- Covers data preprocessing, model training, and deployment  
-
-### 🔹 Quick Commerce Analytics Dashboard
-Interactive dashboard for exploring quick commerce datasets.  
-- Shows demand patterns, performance metrics, and KPIs  
-- Built to practice analytics, BI, and storytelling with data  
-
-> I’ll add direct repo links and demos here as projects are polished and pushed.
+### Tooling & OS
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878A?style=flat-square&logo=arduino&logoColor=white)
 
 ---
 
-<!-- ========================= LEARNING / NOW ========================= -->
+## `$ cat ./projects/featured.log`
 
-## 📚 Currently Learning
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```txt
-🤖 Robotics: ROS2, SLAM, control, and navigation
-🧠 Deep learning: PyTorch, CV, optimization, training workflows
-🛠 Software: writing cleaner, more modular and testable code
+### 🤖 Autonomous Solar Panel Cleaning Robot
+Robotics system for automated rooftop solar panel maintenance using computer vision and hardware control.
+
+**Stack:** Python · OpenCV · Arduino · CV detection pipeline  
+`panel-detection` `autonomous-control` `embedded-systems`
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 Metascale Health — AI Risk Screening App
+Full-stack web app for early-stage liver and diabetes risk prediction with ML backend.
+
+**Stack:** React 19 · Vite · Node.js · Express · MySQL · JWT · Python  
+`machine-learning` `full-stack` `healthcare-ai`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛣️ Lane Detection System
+Computer vision pipeline for highway lane detection from overhead surveillance footage — HSV masking, blob suppression, DBSCAN clustering, weighted polyfit, rolling-average smoother.
+
+**Stack:** Python · OpenCV · NumPy · Jupyter  
+`computer-vision` `lane-detection` `video-processing`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Quick Commerce Analytics Dashboard
+Interactive BI dashboard analysing eight quick-commerce companies — demand patterns, KPIs, and storytelling through data.
+
+**Stack:** Power BI · DAX  
+`data-analytics` `business-intelligence` `dashboard`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ tail -f ./learning.log`
+
+```
+[ACTIVE]   → ROS2 — nodes, topics, services, transforms
+[ACTIVE]   → SLAM — mapping, localisation, sensor fusion  
+[ACTIVE]   → PyTorch — training workflows, custom datasets
+[ACTIVE]   → Writing cleaner, more modular code
+[QUEUED]   → Gazebo simulation & Nav2 stack
+[QUEUED]   → Embedded Linux on Raspberry Pi / Jetson
 ```
 
 ---
 
-<!-- ========================= SOCIALS ========================= -->
+## `$ git log --stat`
 
-## 🌐 Connect With Me
+<div align="center">
 
-<p align="left">
-  <a href="https://github.com/Ishaan-Jain2207" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="GitHub" title="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/ishaan-jain22" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
-  </a>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ishaan-Jain2207&theme=dark&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B" alt="Streak Stats" />
 
----
+<br/><br/>
 
-<!-- ========================= STATS / THEMES ========================= -->
+<img src="https://github-readme-stats.vercel.app/api?username=Ishaan-Jain2207&show_icons=true&theme=github_dark&hide_border=true&icon_color=22D3EE&title_color=22D3EE&text_color=94A3B8&bg_color=0D1117" alt="GitHub Stats" />
 
-## 📈 GitHub Analytics
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ishaan-Jain2207&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan-Jain2207&layout=compact&theme=github_dark&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0D1117" alt="Top Languages" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishaan-Jain2207&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan-Jain2207&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+<sub><code>// Last updated: 2026 · Chandigarh, India</code></sub>
+</div>
 
----
-
-<p align="center">
-  <sub>Thanks for visiting — feel free to connect or drop ideas for cool robotics & ML projects!</sub>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:1e3a5f,100:0D1117&height=100&section=footer" />
